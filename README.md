@@ -1,3 +1,5 @@
+![](https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=75)
+
 # Knowledge Friday
 
 Ideally once a week, we have a session for knowledge exchange. Everyone is welcome to propose a talk they'd give, something valuable they'd like to share, something they're kenn on.
@@ -13,5 +15,3 @@ Enter its title and your name into the voting table. Add an excerpt if you like.
 ### Found a talk you'd enjoy?
 
 Just put your name into the column "I'm intrigued!" for a proposal you like.
-
-![](https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=75)
