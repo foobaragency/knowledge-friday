@@ -10,7 +10,9 @@ To find out what topics are the most intriguing, we have an open, ongoing voting
 
 ### Got a topic you'd like to speak about?
 
-[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?template=talk-proposal.md&title=Topic). Add an excerpt if you like. It doesn't need to be 60 minutes long, even lightning talks of 5-10 minutes are welcome and can be fit into a Knowledge Friday.
+[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?template=talk-proposal.md&title=Topic). Add an excerpt if you like.
+
+It doesn't need to be 60 minutes long, even lightning talks of 5-10 minutes are welcome and can be fit into a Knowledge Friday.
 
 ### Got a topic you'd like to learn about?
 
