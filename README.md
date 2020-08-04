@@ -18,7 +18,9 @@ Create a new issue or use the [template](https://github.com/foobaragency/knowled
 
 ### Voting on topics
 
-You can find all open topics [here](https://github.com/foobaragency/knowledge-friday/issues) and if you're interested in past topics, you can find them [here](https://github.com/foobaragency/knowledge-friday/issues?q=is%3Aissue+is%3Aclosed). To vote, [add an emoji](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments) (e.g. thumbs up) to the proposal. 
+You can find all open topics [here](https://github.com/foobaragency/knowledge-friday/issues) and if you're interested in past topics, you can find them [here](https://github.com/foobaragency/knowledge-friday/issues?q=is%3Aissue+is%3Aclosed).
+
+To vote, [add an emoji](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments) (e.g. thumbs up) to the proposal. 
 
 ### Found a talk you'd enjoy?
 
