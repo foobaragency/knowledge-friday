@@ -16,7 +16,7 @@ It doesn't need to be 60 minutes long, even lightning talks of 5-10 minutes are 
 
 ### Got a topic you'd like to learn about?
 
-Create a new issue or use the [template](https://github.com/foobaragency/knowledge-friday/issues/new?template=talk-proposal.md&title=Topic) to suggest a topic that you would like to learn about.
+[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?template=talk-proposal.md&title=Topic) and describe what questions you would like to get answered and what format the talk should be, e.g. presentation, discussion, live coding or coding examples.
 
 ### Voting on topics
 
