@@ -1,12 +1,12 @@
 ---
 name: Talk Proposal
-about: Topic
+about: Submit your proposal or suggest a topic
 title: Topic
 labels: ''
 assignees: ''
 
 ---
 
-## Abstract
+## Abstract or Suggestion
 
-<!-- describe your
+<!-- Describe the topic. What is it about? What does it include? What are the main focus points? -->
