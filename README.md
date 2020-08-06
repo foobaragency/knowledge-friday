@@ -10,13 +10,13 @@ To find out what topics are the most intriguing, we have an open, ongoing voting
 
 ### Speakers
 
-[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?template=talk-proposal.md&title=Topic). Add an excerpt if you like.
+[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?assignees=&labels=&template=submit-a-talk.md&title=Topic). Add an excerpt if you like.
 
 It doesn't need to be 60 minutes long, even lightning talks of 5-10 minutes are welcome and can be fit into a Knowledge Friday.
 
 ### Learners
 
-[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?template=talk-proposal.md&title=Topic) and describe what questions you would like to get answered and what format the talk should be, e.g. presentation, discussion, live coding or coding examples.
+[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?assignees=&labels=&template=request-a-talk.md&title=Topic) and describe what questions you would like to get answered and what format the talk should be, e.g. presentation, discussion, live coding or coding examples.
 
 ### Voting
 
