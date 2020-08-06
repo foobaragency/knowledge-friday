@@ -7,10 +7,6 @@ assignees: ''
 
 ---
 
-### Abstract or Suggestion
+### Suggestion
 
-<!-- Describe the topic. What is it about? What does it include? What are the main focus points? -->
-
-### Good to know
-
-<!-- Here you can add additional info, e.g. the estimated duration, a second speaker who will be joining you, things you need for the presentation, etc. -->
+<!-- Describe the talk below. What questions would you like to get answered? What is your current experience level? What format would you prefer? (code examples, slides, interactive, etc.). Add anything that is important to you and that helps others vote. -->
