@@ -20,6 +20,10 @@ It doesn't need to be 60 minutes long, even lightning talks of 5-10 minutes are 
 
 ### Voting
 
-Here you can find [all open topics](https://github.com/foobaragency/knowledge-friday/issues) and [past topics](https://github.com/foobaragency/knowledge-friday/issues?q=is%3Aissue+is%3Aclosed).
+Here you can find [all open topics](https://github.com/foobaragency/knowledge-friday/issues) and [done topics](https://github.com/foobaragency/knowledge-friday/issues?q=is%3Aissue+is%3Aclosed).
 
 To vote, [add an emoji](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments) (e.g. thumbs up) to the proposal.
+
+### "Schedule"
+
+Check the [project board](https://github.com/foobaragency/knowledge-friday/projects/1) for an overview of future and past topics.
