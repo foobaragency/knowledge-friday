@@ -1,10 +1,9 @@
 ---
-name: Request a Talk
+name: Request a Topic
 about: Suggest a topic you would like to learn about
 title: Topic
-labels: ''
-assignees: ''
-
+labels: "🥺 topic request"
+assignees: ""
 ---
 
 ### Suggestion
