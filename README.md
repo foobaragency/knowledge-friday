@@ -22,7 +22,7 @@ Participants propose sessions at the beginning of the Knowledge Friday by puttin
 
 Sessions can be work-related, but don't need to be, as long as they are of value. Session formats may be lightning talks, discussions, team work, etc. Make sure to join in on time, because the schedule is set up at the beginning. And you never know what awesome topics you might miss 😉
 
-🎤 ## Specials
+## 🎤 Specials
 
 __Occasionally__ we __schedule__ an event for a _special_, when somebody wants to do a session that takes more effort to gear up for. The __larger amount of preparation required__ makes it important to give speakers a fix date. Also, audience then know it is coming. Everybody is welcome to propose talks you'd give, something valuable you'd like to share, something you're keen on.
 
@@ -54,9 +54,8 @@ Pick the <img src="https://user-images.githubusercontent.com/12255735/122565628-
 
 Here you can find [all open topics](https://github.com/foobaragency/knowledge-friday/issues) and [done topics](https://github.com/foobaragency/knowledge-friday/issues?q=is%3Aissue+is%3Aclosed).
 
-To vote, [add an emoji](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments) (e.g. thumbs up) to the proposal. Use comments to ask questions, add ideas, or give any feedback.
+[Add an emoji](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments) (i.e. thumbs up) to the proposal. Use comments to ask questions, add ideas, or give any feedback.
 
 ### Schedule
 
-Check the [project board](https://github.com/foobaragency/knowledge-friday/projects/1) for an overview of future topics.
-Topics with a fixed date are in the "Next up" column.
+Check the [project board](https://github.com/foobaragency/knowledge-friday/projects/1) for an overview of future topics. Sessions with a fixed date are in the "Next up" column.
