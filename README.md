@@ -1,61 +1,52 @@
-![](https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1518&q=80)
+![kfs-gh-header](https://user-images.githubusercontent.com/12255735/149579200-6cbffa87-9890-4f86-a36f-a6764758cc14.png)
 
-# Knowledge Friday
+# Knowledge Friday Specials
 
-> Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.
-> 
-> — Kofi Annan
+__Every last Friday of a month__ we have a *special* event for you! That's roundabout an hour of taknowledge transfer. It can be a presentation, demo, discussion, etc. on any work-related topic.
 
-Every Friday we celebrate knowledge and its exchange. There are 2 modes to pursue this:
+Specials (proposals, scheduled specials, and past ones) are listed in the shape of issues in our [GitHub project](https://github.com/orgs/foobaragency/projects/9/views/1)! Find what's upcoming, give feedback, propose your own special!
 
-## 🎳 Barcamps 
+### Dates
 
-Regularly the Knowledge Friday is a 1 hr [open space](https://en.wikipedia.org/wiki/Open_Space_Technology) which gets filled spontaneously with sessions by its participants.
+| Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | ~~Dec~~ |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|  28 |  25 |  25 |  29 |  27 |  24 |  29 |  26 |  30 |  28 |  25 | --  |
 
-Typical for a barcamp, there is a lot of exchange, interaction, and dialog, with a minimum of bureaucracy or predefined content. We also strive to keep the overhead ad small as possible. _There is no audience_ is a common barcamp principle, meaning that, instead of being just consumers, in some way __all participants are contributors__!
 
-You may come up with your own topics or also make up questions or requests towards other participants ("Hey \[name], would you like to tell us some details about \[topic]?")
+### Who's Invited?
 
-### How The Open Space Works
+We're in the process of opening our Knowledge Friday to participants outside our beloved agency. This will happen gradually and currently we're happily inviting special family-friends-and-fools to take part. Want to be in it, too? Reach out to us thorugh GitHub.
 
-Participants propose sessions at the beginning of the Knowledge Friday by putting up sticky notes on a whiteboard. Depending on the number of proposals, a quick voting is made and a schedule for the remaining time is created. Then, the sessions start according to the schedule.
+## How To Bring Up A Special
 
-Sessions can be work-related, but don't need to be, as long as they are of value. Session formats may be lightning talks, discussions, team work, etc. Make sure to join in on time, because the schedule is set up at the beginning. And you never know what awesome topics you might miss 😉
+### What Can Be A Special?
 
-## 🎤 Specials
+The format could be a presentation, discussion, live coding, demo, mob programming,... everything you can imagine. It's _your_ special 🙂
 
-__Occasionally__ we __schedule__ an event for a _special_, when somebody wants to do a session that takes more effort to gear up for. The __larger amount of preparation required__ makes it important to give speakers a fix date. Also, audience then know it is coming. Everybody is welcome to propose talks you'd give, something valuable you'd like to share, something you're keen on.
+Never spoken before? Shy or insecure? Consider the Knowledge Friday a safe space among friends to try out yourself, practice, and grow. The audience is gentle and happy to help you out.
 
-The format could be a presentation, discussion, live coding, demo, mob programming,... everything you can imagine. It's _your_ session 🙂
+### Proposing A Special
 
-Never spoken before? Shy or indsecure? Consider the knowledge Friday a safe space among friends to try out yourself, practice, and grow. The audience is gentle and happy to help you out. For questions oj advice, reach out to Sebastian ([mail](mailto:sebastian@foobar.agency)|[Slack](https://foobaragency.slack.com/archives/D013MM65HC7)).
-
-### Proposing a Session
-
-To find out if a topics is intriguing, we have an open, ongoing voting. It's a way for speakers to assess the amount of interest on the topic. Also, everyone can check the list and change their votes, ask questions, etc.
-
-Don't forget to let others know of your special. Although some standard announcements are done by KF for each new or upcoming special on our [#knowledge-friday Slack Channel](https://foobaragency.slack.com/archives/C01HR4T50TY), you're of course free to use do some extra promotion!
+There are two reasons to create a proposal: You want to _do_ a special or you'd like to _ask for_ one.
 
 #### Speakers
 
-[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?assignees=&labels=&template=submit-a-talk.md&title=Topic). Add an excerpt/preview! It helps others to assess what it's about and if it's for them.
+1. [Create an issue in this repo](https://github.com/foobaragency/knowledge-friday/issues/new?assignees=&labels=&template=submit-a-talk.md&title=Topic). Add an excerpt/preview! It helps others to assess what it's about and if it's for them. The recommended duration is about 40 - 50 minutes with some time at the end for questions and discussions.
+2. Pick from existing labels what characterize the format you're planning.
+3. Remember to take the issue out of draft mode to make it visible for others.
+4. Add it to the board column __Proposed Events__ either by adding it from the board view or by giving the issue the _status_ of that name.
+5. Don't forget to let others know of your special. Although some standard announcements are done by KF for each new or upcoming special on our [#knowledge-friday Slack Channel](https://foobaragency.slack.com/archives/C01HR4T50TY), you're of course free to use do some extra promotion!
 
-It doesn't need to be 60 minutes long, even lightning talks of 5-10 minutes are welcome and can be fit into a Knowledge Friday.
-
-Pick from existing labels what matches the format you're planning.
+For any advice, help with the topic, feedback on your idea, etc., reach out to Sebastian ([GitHub](https://github.com/code-shambles)|[foobar Slack](https://foobaragency.slack.com/archives/D013MM65HC7)).
 
 #### Learners
 
-[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?assignees=&labels=&template=request-a-talk.md&title=Topic), describe what questions you would like to get answered, and what format the talk should be, e.g. presentation, discussion, live coding or coding examples.
+[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?assignees=&labels=&template=request-a-talk.md&title=Topic), describe what questions you would like to get answered, and what format the talk could be, e.g. presentation, discussion, live coding or coding examples.
 
-Pick the <img src="https://user-images.githubusercontent.com/12255735/122565628-fe706900-d046-11eb-9710-b576e1da9676.png" height="25" /> label, and optionally others that match. 
+Pick the <img src="https://user-images.githubusercontent.com/12255735/122565628-fe706900-d046-11eb-9710-b576e1da9676.png" height="25" /> label, and optionally others that match.
 
-### Voting/Feedback
+Remember modesty and the principle of give & take. Your chances of getting a special may raise if you lead by example and do one yourself 😉
 
-Here you can find [all open topics](https://github.com/foobaragency/knowledge-friday/issues) and [done topics](https://github.com/foobaragency/knowledge-friday/issues?q=is%3Aissue+is%3Aclosed).
+### Schduling A Date
 
-[Add an emoji](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments) (i.e. thumbs up) to the proposal. Use comments to ask questions, add ideas, or give any feedback.
-
-### Schedule
-
-Check the [project board](https://github.com/foobaragency/knowledge-friday/projects/1) for an overview of future topics. Sessions with a fixed date are in the "Next up" column.
+Dates are rare, but we'll find you a time slot! 
