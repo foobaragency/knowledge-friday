@@ -47,6 +47,6 @@ Pick the <img src="https://user-images.githubusercontent.com/12255735/122565628-
 
 Remember modesty and the principle of give & take. Your chances of getting a special may raise if you lead by example and do one yourself 😉
 
-### Schduling A Date
+### Scheduling A Date
 
 Dates are rare, but we'll find you a time slot! Sebastian ([GitHub](https://github.com/code-shambles)|[foobar Slack](https://foobaragency.slack.com/archives/D013MM65HC7)) is looking forward to work with you!
