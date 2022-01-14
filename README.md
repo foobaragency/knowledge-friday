@@ -49,4 +49,4 @@ Remember modesty and the principle of give & take. Your chances of getting a spe
 
 ### Schduling A Date
 
-Dates are rare, but we'll find you a time slot! 
+Dates are rare, but we'll find you a time slot! Sebastian ([GitHub](https://github.com/code-shambles)|[foobar Slack](https://foobaragency.slack.com/archives/D013MM65HC7)) is looking forward to work with you!
