@@ -10,11 +10,11 @@ assignees: ""
 
 ## 🚡 Elevator Pitch
 
-Sell your talk! Write a few exciting and enticing lines. Invite and intrigue, attract people and make them curious. But make it short!
+<!-- Sell your talk! Write a few exciting and enticing lines. Invite and intrigue, attract people and make them curious. But make it short! -->
 
 ## 📖 Description
 
-This is the place for more details. What is your topic about? What does it include? What are the main focus points? Where does it originate from? What's the benefit or advantage?
+<!-- This is the place for more details. What is your topic about? What does it include? What are the main focus points? Where does it originate from? What's the benefit or advantage? -->
 
 ## 📊 Metadata
 
@@ -22,11 +22,11 @@ This is the place for more details. What is your topic about? What does it inclu
 
 ### 📺 Format and Duration
 
-<!-- Example formats: Presentation (maybe the most common one), live coding, live demo, panel discussion, mob programming, open discussion,or anything you can think of. -->
+<!-- Formats: Presentation (maybe the most common one), live coding, live demo, panel discussion, mob programming, open discussion,or anything you can think of. -->
 
-<!-- Regarding the duration: The calendar date is planned for 1 hour. It can be exceeded a bit, but consider attendees may have other plans afterwards. So it would be great if you try to fit your talk into 60 minutes. Also, consider 5-10 minutes at the end for a Q&A session. -->
+<!-- Duration: The calendar date is planned for 1 hour. It can be exceeded a bit, but consider attendees may have other plans afterwards. So it would be great if you try to fit your talk into 60 minutes. Also, consider 5-10 minutes at the end for a Q&A session. -->
 
-(Example) Presenation with live coding ca. 50 min + 10 min Q&A
+<!-- Example: Presenation with live coding ca. 50 min + 10 min Q&A -->
 
 ### 👨‍👩‍👧‍👦 Audience
 
@@ -38,4 +38,4 @@ This is the place for more details. What is your topic about? What does it inclu
 
 ### 🛠 Prerequisites
 
-Let others know if and what knowledge or equipment is required to participate.
+<!-- Let others know if and what knowledge or equipment is required to participate. -->
