@@ -1,4 +1,4 @@
-![kfs-gh-header](https://user-images.githubusercontent.com/12255735/149579200-6cbffa87-9890-4f86-a36f-a6764758cc14.png)
+![kfs-gh-header](https://user-images.githubusercontent.com/12255735/160876100-4cb016ce-a7f1-4e85-b164-c2d742f8c781.png)
 
 # Knowledge Friday Specials
 
