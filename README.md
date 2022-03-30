@@ -2,9 +2,9 @@
 
 # Knowledge Friday Specials
 
-__Every last Friday of a month__ we have a *special* event for you! That's roundabout an hour of taknowledge transfer. It can be a presentation, demo, discussion, etc. on any work-related topic.
+__Every last Friday of a month__ we have a *special* event for you! This monthly hour (+/-) of knowledge transfer can be a presentation, demo, discussion, etc. on any work-related topic.
 
-Specials (proposals, scheduled specials, and past ones) are listed in the shape of issues in our [GitHub project](https://github.com/orgs/foobaragency/projects/9/views/1)! Find what's upcoming, give feedback, propose your own special!
+These *Specials* (proposals, scheduled specials, and past ones) are listed in the shape of issues in our [GitHub project](https://github.com/orgs/foobaragency/projects/9/views/1)! Find what's upcoming, give feedback, propose your own special!
 
 ### Dates
 
@@ -21,7 +21,7 @@ We're in the process of opening our Knowledge Friday to participants outside our
 
 ### What Can Be A Special?
 
-The format could be a presentation, discussion, live coding, demo, mob programming,... everything you can imagine. It's _your_ special 🙂
+The format could be a presentation, discussion, live coding, demo, mob programming, group testing,... everything you can imagine. It's _your_ special 🙂
 
 Never spoken before? Shy or insecure? Consider the Knowledge Friday a safe space among friends to try out yourself, practice, and grow. The audience is gentle and happy to help you out.
 
@@ -31,17 +31,22 @@ There are two reasons to create a proposal: You want to _do_ a special or you'd 
 
 #### Speakers
 
-1. [Create an issue in this repo](https://github.com/foobaragency/knowledge-friday/issues/new?assignees=&labels=&template=submit-a-talk.md&title=Topic). Add an excerpt/preview! It helps others to assess what it's about and if it's for them. The recommended duration is about 40 - 50 minutes with some time at the end for questions and discussions.
-2. Pick from existing labels what characterize the format you're planning.
-3. Remember to take the issue out of draft mode to make it visible for others.
-4. Add it to the board column __Proposed Events__ either by adding it from the board view or by giving the issue the _status_ of that name.
-5. Don't forget to let others know of your special. Although some standard announcements are done by KF for each new or upcoming special on our [#knowledge-friday Slack Channel](https://foobaragency.slack.com/archives/C01HR4T50TY), you're of course free to use do some extra promotion!
+1. [Create an issue in this repo](https://github.com/foobaragency/knowledge-friday/issues/new?assignees=&labels=&template=submit-a-talk.md&title=Topic). 
+2. Add info to help others assess what it's about and if it's for them. You'll find a template there to guide you.
+3. The recommended duration is about 40 - 50 minutes with some time at the end for Q&A. If you've gt a topic you're really keen on, but that won't fit into an hour, we'll figure something out!
+4. Assign yourself.
+5. Pick from existing labels what characterizes the format you're planning.
+6. Take the issue out of draft mode to make it visible for others.
+7. Submit the new issue!
+8. Add it to the [board](https://github.com/orgs/foobaragency/projects/9) column __Proposals__ either by adding it from the board view or by giving the issue the _status_ of that name. If you're unsure about the topic's viability or usefulness, or just want to discuss the proposal before perfecting it, feel free to just use the status/column __To Be Refined__.
+9. Don't forget to let others know of your special. Although some standard announcements are done by KF for each new or upcoming special on our [#knowledge-friday Slack Channel](https://foobaragency.slack.com/archives/C01HR4T50TY), you're of course free to do some extra promotion!
 
-For any advice, help with the topic, feedback on your idea, etc., reach out to Sebastian ([GitHub](https://github.com/code-shambles)|[foobar Slack](https://foobaragency.slack.com/archives/D013MM65HC7)).
+For any advice, help with the topic, feedback on your idea, etc., reach out to Sebastian Eck ([GitHub](https://github.com/code-shambles)|[foobar Slack](https://foobaragency.slack.com/archives/D013MM65HC7)).
 
 #### Learners
 
-[Create a new proposal](https://github.com/foobaragency/knowledge-friday/issues/new?assignees=&labels=&template=request-a-talk.md&title=Topic), describe what questions you would like to get answered, and what format the talk could be, e.g. presentation, discussion, live coding or coding examples.
+1. [Create an issue in this repo](https://github.com/foobaragency/knowledge-friday/issues/new?assignees=&labels=&template=request-a-talk.md&title=Topic)
+2. Describe what questions you would like to get answered, and what format the talk could be, e.g. presentation, discussion, live coding or coding examples.
 
 Pick the <img src="https://user-images.githubusercontent.com/12255735/122565628-fe706900-d046-11eb-9710-b576e1da9676.png" height="25" /> label, and optionally others that match.
 
