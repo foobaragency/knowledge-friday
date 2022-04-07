@@ -39,3 +39,10 @@ assignees: ""
 ### 🛠 Prerequisites
 
 <!-- Let others know if and what knowledge or equipment is required to participate. -->
+
+### 🧑‍🎤 Speaker Info
+- Speaker name (or nickname)
+- Job position
+- Employer or project
+- Twitter handle
+- Github username
