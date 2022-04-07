@@ -22,9 +22,9 @@ assignees: ""
 
 ### 📺 Format and Duration
 
-<!-- Formats: Presentation (maybe the most common one), live coding, live demo, panel discussion, mob programming, open discussion,or anything you can think of. -->
+<!-- Formats: Presentation (maybe the most common one), live coding, live demo, panel discussion, mob programming, open discussion, or anything you can think of. -->
 
-<!-- Duration: The calendar date is planned for 1 hour. It can be exceeded a bit, but consider attendees may have other plans afterwards. So it would be great if you try to fit your talk into 60 minutes. Also, consider 5-10 minutes at the end for a Q&A session. -->
+<!-- Duration: The calendar date is planned for 1 hour. It can be exceeded a bit, but consider attendees may have other plans afterwards. So it would be great if you try to fit your talk into 60 minutes. Also, consider 5-10 minutes at the end for a Q&A session. If you can't do your special wwithin that time frame, it's not a show-stopper! We'll figure something out. -->
 
 <!-- Example: Presenation with live coding ca. 50 min + 10 min Q&A -->
 
