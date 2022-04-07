@@ -40,7 +40,7 @@ assignees: ""
 
 <!-- Let others know if and what knowledge or equipment is required to participate. -->
 
-### 🧑‍🎤 Speaker Info
+## 🧑‍🎤 Speaker Info
 - Speaker name (or nickname)
 - Job position
 - Employer or project
